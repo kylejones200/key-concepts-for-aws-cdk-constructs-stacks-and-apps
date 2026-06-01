@@ -11,14 +11,7 @@ One of the foundational elements of AWS CDK is its use of constructs, stacks, an
 
 At the heart of CDK are constructs. Constructs are the basic building blocks of AWS CDK applications and represent AWS resources like S3 buckets, Lambda functions, and DynamoDB tables. Constructs encapsulate the configuration and management of AWS resources, making it easier for developers to define and deploy infrastructure.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
